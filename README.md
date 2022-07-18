@@ -1,4 +1,23 @@
+.<img width="1440" alt="Screenshot 2022-07-18 at 10 20 39 AM" src="https://user-images.githubusercontent.com/62445763/179447798-94d8ea22-7137-425f-a5f6-92ba7d67c3c4.png">
+
+hi
+
+<img width="1440" alt="Screenshot 2022-07-18 at 10 22 59 AM" src="https://user-images.githubusercontent.com/62445763/179447834-053b38e8-e6bf-4b95-b906-de7d132b18c8.png">
+
+hello
+
+<img width="1440" alt="Screenshot 2022-07-18 at 10 24 38 AM" src="https://user-images.githubusercontent.com/62445763/179447839-3aea424c-78ce-412e-aeb6-16ab6d3e354f.png">
+
+yes
+
+<img width="1440" alt="Screenshot 2022-07-18 at 10 27 24 AM" src="https://user-images.githubusercontent.com/62445763/179447847-b574c27e-9a73-41fa-9d29-c28268620270.png">
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
 
 ## Getting Started
 
@@ -11,6 +30,7 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
