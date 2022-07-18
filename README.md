@@ -35,6 +35,13 @@ We used NextJS/React to ensure compatibility and we used polygon as our ecosyste
 Information about the prize pools, proofs for the claims and disputes are stored on IPFS. The MATIC of the prize pool are staked in Aave lending pools to earn profits for the platform. Without Gelato, users would have to manually withdraw their received money. However, with Gelato, we can ensure automatic payouts.
 We are particularly proud of the fact that we have been able to built the whole complex platform over the course of this weekend!
 
+## Contact
+# Persons of contact in case there are any questions
+
+Attempt | #1 | #2 | #3 | #4 | 
+--- | --- | --- | --- |--- |
+Seconds | 301 | 283 | 290 |
+
 
 ## Getting Started
 
