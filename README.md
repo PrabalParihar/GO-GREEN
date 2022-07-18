@@ -27,6 +27,7 @@ The prize pool of the bounty is split between all valid claims and automatically
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+<img width="1440" alt="Screenshot 2022-07-18 at 10 41 05 AM" src="https://user-images.githubusercontent.com/62445763/179448826-e3c4b8d5-9cf8-405a-9027-f9cf995f944a.png">
 
 
 ## Getting Started
