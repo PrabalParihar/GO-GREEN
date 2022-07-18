@@ -38,7 +38,7 @@ We are particularly proud of the fact that we have been able to built the whole 
 ## Contact
 # Persons of contact in case there are any questions
 
-Contact | #Prabal Pratap Singh|
+Name | #Prabal Pratap Singh|
 --- |
 Email | amanparihar129@gmail.com |
 --- | 
