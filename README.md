@@ -29,7 +29,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 <img width="1440" alt="Screenshot 2022-07-18 at 10 41 05 AM" src="https://user-images.githubusercontent.com/62445763/179448826-e3c4b8d5-9cf8-405a-9027-f9cf995f944a.png">
 
-#How it's made
+## How it's made
 
 We used NextJS/React to ensure compatibility and we used polygon as our ecosystem to ensure low gas fees. As our product is aimed at non-crypto native people,
 Information about the prize pools, proofs for the claims and disputes are stored on IPFS. The MATIC of the prize pool are staked in Aave lending pools to earn profits for the platform. Without Gelato, users would have to manually withdraw their received money. However, with Gelato, we can ensure automatic payouts.
