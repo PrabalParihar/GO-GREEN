@@ -1,16 +1,22 @@
 .<img width="1440" alt="Screenshot 2022-07-18 at 10 20 39 AM" src="https://user-images.githubusercontent.com/62445763/179447798-94d8ea22-7137-425f-a5f6-92ba7d67c3c4.png">
 
-hi
+Our product offers a decentralized approach to collective action. Any user is able to create a bounty for a certain action. Besides setting the title, the description and uploading a representative picture for the claim, they can also specify what proof they expect for submissions and a cut off date. The bounty is created by confirming how much MATIC they want to commit to the prize pool.
+
 
 <img width="1440" alt="Screenshot 2022-07-18 at 10 22 59 AM" src="https://user-images.githubusercontent.com/62445763/179447834-053b38e8-e6bf-4b95-b906-de7d132b18c8.png">
 
-hello
+Once created, others who support the cause can also commit money to the prize pool.
+For every MATIC spent, contributors get 1 CoAc token.
+The prize pools are staked in Aave to earn interest on MATIC, achieving a profit for our platform and enabling us to not take fees on any transaction.
 
 <img width="1440" alt="Screenshot 2022-07-18 at 10 24 38 AM" src="https://user-images.githubusercontent.com/62445763/179447839-3aea424c-78ce-412e-aeb6-16ab6d3e354f.png">
 
-yes
+Individuals can fulfill the created tasks before the cut off date and upload the required proof of their action. On submission, they also have to stake a small amount to prove their seriousness. After the time runs up and the application period ends, the submissions can be reviewed by the community for 7 days
 
 <img width="1440" alt="Screenshot 2022-07-18 at 10 27 24 AM" src="https://user-images.githubusercontent.com/62445763/179447847-b574c27e-9a73-41fa-9d29-c28268620270.png">
+
+If a community member doubts that validity of a claim, they can dispute it. They upload a proof for that stating their reasoning and also stake a small amount to prove their seriousness.
+
 
 
 
