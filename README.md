@@ -18,7 +18,11 @@ Individuals can fulfill the created tasks before the cut off date and upload the
 If a community member doubts that validity of a claim, they can dispute it. They upload a proof for that stating their reasoning and also stake a small amount to prove their seriousness.
 
 
+<img width="1440" alt="Screenshot 2022-07-18 at 10 37 38 AM" src="https://user-images.githubusercontent.com/62445763/179448677-9ccb54f5-0f9f-433a-a486-cef2ad3419b0.png">
 
+During the dispute phase, submitted claims that are up for dispute are displayed to users on the platform.  CoAc token holders can either vote in favor of the submitter or the disputer.  A user’s vote power depends on the number of tokens that they hold.
+At the end of the 7 days dispute period, if a user’s claim either was not disputed or if at least 50% of the votes on the dispute proposal are in favor of them, the claim is declared valid.
+The prize pool of the bounty is split between all valid claims and automatically paid with Gelato.
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
