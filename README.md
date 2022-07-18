@@ -38,9 +38,11 @@ We are particularly proud of the fact that we have been able to built the whole 
 ## Contact
 # Persons of contact in case there are any questions
 
-Attempt | #1 | #2 | #3 | #4 | 
+Contact | #Prabal Pratap Singh|
 --- | --- | --- | --- |--- |
-Seconds | 301 | 283 | 290 |
+Email | amanparihar129@gmail.com |
+--- | --- | --- | --- |--- |
+Discord | #prabal#4653 |
 
 
 ## Getting Started
